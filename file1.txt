@@ -2,4 +2,8 @@ hello git
 second
 third - my branch
 fourth - my branch
+<<<<<<< HEAD
 some hot fix
+=======
+Add Function 1
+>>>>>>> 1432f83 (Add new function 1)
